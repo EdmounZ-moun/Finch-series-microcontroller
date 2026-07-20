@@ -9,3 +9,15 @@ My first pcb building project. This compact microcontroller uses the ATTiny-85 m
 
 ## PCB design (schematic and layout)
 PCB designed in KiCad, 2 layers, green solder mask
+
+# Finch.v2 Microcontroller
+My second pcb building project. This devboard uses the ATTiny-84A microchip. which has similar speeds but more GPIO-pins and ADC support in contrast to the ATTiny-85
+
+## Features:
+- Compact microcontroller  mm with USB Micro (Power Only), runs at 5V
+- ATtiny85 IC with 20Mhz clock speed and 8kB flash memory
+- 8 broken out pins, Analog 0, 1 and 2, Digital 0, 1, 2, 3A, 3B and 7,  5V and GND
+- 10 pin USB-ASP needed for file transfer
+
+## PCB design (schematic and layout)
+PCB designed in KiCad, 2 layers, green solder mask
