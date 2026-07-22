@@ -13,5 +13,5 @@ Finalised the design and ordered the parts and pcb. I found out that the USB-C p
 ## Log 5, 22-5-2026
 I revisioned my design by swtiching to Micro-USB with Through Hole solder connection and switched to GPIO pins, I retraced the PCB using better techniques to save space (e.g Ground Plane)
 
-## Log 6, 1-7-2026
-Ordered the parts for the devboard + a breadboard to test the circuit before soldering
+## Log 6, 10-7-2026
+Ordered the parts for the devboard + a breadboard to test the circuit before soldering, also trained with soldering and watched soldering tutorials
