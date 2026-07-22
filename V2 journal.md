@@ -3,6 +3,7 @@ I looked for better chips that could support ADC and more pins. The AtTiny-84A-2
 Port A pins support ADC, ADC stand for Analog-to-digital conversion, it turns signals from a sensor (thermistor, photoresistor) into data the chip can process.
 
 I went for an Arduino-esque design since it had been the only microcontroller i used in real life (using pin-sockets for digital, analog, ground and power signals)
+
 <img width="430" height="430" alt="image" src="https://github.com/user-attachments/assets/d087e9c1-55d2-43e7-ae23-735de19ef02a" />
 
 ## Log 2, 22-7-2026
