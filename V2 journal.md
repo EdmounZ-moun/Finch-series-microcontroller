@@ -23,8 +23,9 @@ I started making the PCB layout, it was quite the same, but i stumbled upon a pr
 I will also need to change this on the Finch V1 if the footprint is wrong.
 
 Routing was a bit harder with this board, mainly because of the larger amount of pins, luckily i had alot space on the bottom side of the board so i could route traces there if needed.
+I did research on how a chip knows what type of signal it recieves: analog or digital
 
-Time spent: 2 hours
+Time spent: 3 hours
 
 
 
