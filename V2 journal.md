@@ -17,7 +17,9 @@ Time spent: 1 hour
 
 ## Log 3, 23-7-2026
 I started making the PCB layout, it was quite the same, but i stumbled upon a problem. I did not know which pin was the GND on the physical USB-Micro port, so my current footprint may be wrong and would cause the board to malfunction. I contacted the manufacturer but until then i will keep this design.
+
 <img width="373" height="453" alt="image" src="https://github.com/user-attachments/assets/4c5c2405-60cf-40a4-9c12-ff807b524ef1" />
+
 I will also need to change this on the Finch V1 if the footprint is wrong.
 
 Routing was a bit harder with this board, mainly because of the larger amount of pins, luckily i had alot space on the bottom side of the board so i could route traces there if needed.
