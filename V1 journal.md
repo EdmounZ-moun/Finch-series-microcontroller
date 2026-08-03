@@ -24,8 +24,10 @@ Time spent: 1 hour
 
 ## Log 5, 22-5-2026
 I revisioned my design by swtiching to Micro-USB with Through Hole solder connection and switched to GPIO pins instead of predetermined components, I retraced the PCB using better techniques to save space (e.g Ground Pour and shorter distances) A Ground Pour is using the entire empty space on a PCB for the ground plane. This is not very practical on compact boards such as mine, but i worked my way around this problem by adding the ground plane to the backside of the PCB where no components are situated, i also used thermal reliefs with every hole connection so the copper ground plane would not act as a giant heatsink. This way the solder will flow through. I also ordered the parts for this new iteration
+
 <img width="385" height="388" alt="image" src="https://github.com/user-attachments/assets/2dc2e30f-2798-444c-9ea1-43a560e67f91" />
 <img width="330" height="530" alt="Schermafbeelding 2026-07-21 000752" src="https://github.com/user-attachments/assets/ba208d07-c8c5-4013-b094-f86eda639dd9" /> 
+
 (Ground is the blue part)
 
 Time spent: 4 hours
