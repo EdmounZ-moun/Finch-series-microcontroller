@@ -30,4 +30,13 @@ I revisioned my design by swtiching to Micro-USB with Through Hole solder connec
 
 Time spent: 4 hours
 
-## Log 6, -7-2026 (break because of school exams)
+## Log 6, 28-7-2026 (break because of school exams)
+The parts have arrived, i also bought a breadboard and cables to test my design, after flashing some hardware on the USBasp i started assembling the board prototype. I found out that the USB-Micro port wouldn't fit in the breadboard since the pins were too small, so i used a bent 1x4 pin socket and a spare Arduino Nano as temporary power supply. It turned out really well, i figured it would work even better on a PCB since there is no signal interference or anything.
+<img width="1500" height="2000" alt="image" src="https://github.com/user-attachments/assets/d90953fe-e418-45db-9f73-b36fed085f6b" />
+<img width="1080" height="1920" alt="image" src="https://github.com/user-attachments/assets/d1ae586e-55b4-4303-beea-286963c45f07" />
+<img width="368" height="658" alt="VID-20260801-WA0008(1)" src="https://github.com/user-attachments/assets/9f5dd06a-8cf9-4606-89d3-5199d3463cc1" />
+
+
+
+
+
